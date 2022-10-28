@@ -8,7 +8,8 @@ This is a web application that takes a user's birthday and calculates the day of
 * git clone ```https://github.com/nobwoge/Akan_Name.git``
 
 * cd Akan-names
-
+## live LINK
+https://nobwoge.github.io/Akan_Name
 ## Known Bugs
 The output is above average
 ## Technologies Used
